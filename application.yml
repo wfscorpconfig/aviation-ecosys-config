@@ -1,2 +1,6 @@
 greeting:
   message: Hello world from Config Server
+db:
+  host: dbhost123.aws.com
+  user: apps
+  password: 12345678
