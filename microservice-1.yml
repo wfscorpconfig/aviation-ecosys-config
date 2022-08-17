@@ -1,4 +1,3 @@
 greeting:
   message: Hello world from Microservice-1 specific file.. 
-db:
-  host: dbhost456.aws.com  
+
